@@ -1,5 +1,4 @@
 
-(banner-preview.gif)](https://aakashkamboj.github.io)
 
 # 🚀 Akash Kamboj — Cloud • DevOps • Machine Learning
 
